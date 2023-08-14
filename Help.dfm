@@ -50,6 +50,7 @@ object FormHelp: TFormHelp
     Height = 25
     Caption = 'Github'
     TabOrder = 2
+    OnClick = Button3Click
   end
   object RichEdit1: TRichEdit
     Left = 408

@@ -17,6 +17,7 @@ type
     procedure Button4Click(Sender: TObject);
     procedure Button1Click(Sender: TObject);
     procedure Button2Click(Sender: TObject);
+    procedure Button3Click(Sender: TObject);
   private
     { Private declarations }
   public
@@ -34,7 +35,7 @@ implementation
 
 procedure TFormHelp.Button1Click(Sender: TObject);
 begin
-  ShellExecute(0, 'open', 'https://youtube.com/@newbieberkarya6442', nil, nil, SW_SHOWNORMAL);
+  ShellExecute(0, 'open', 'https://youtu.be/kNEo7Hb7hy4', nil, nil, SW_SHOWNORMAL);
 end;
 
 procedure TFormHelp.Button2Click(Sender: TObject);
@@ -48,6 +49,11 @@ begin
     FormHelp2.Free; // Bebaskan memori setelah form help ditutup
   end;
 
+end;
+
+procedure TFormHelp.Button3Click(Sender: TObject);
+begin
+  ShellExecute(0, 'open', 'https://github.com/ibnusaja/wheaterApp', nil, nil, SW_SHOWNORMAL);
 end;
 
 procedure TFormHelp.Button4Click(Sender: TObject);
