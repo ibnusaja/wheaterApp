@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/08/06 17:15:05.000.021,=E:\Program Files\Embarcadero\Studio\22.0\kerjaanKU\Unit1.pas</Transaction>
+    <Transaction>2023/08/06 17:31:32.000.986,E:\Program Files\Embarcadero\Studio\22.0\kerjaanKU\Unit1.dfm=D:\kerjaanku-dataD\IMK\IMK SP 2023\ibu zachira\UTS (TUBES)\wheaterApp.dfm</Transaction>
+    <Transaction>2023/08/06 17:31:32.000.986,E:\Program Files\Embarcadero\Studio\22.0\kerjaanKU\Unit1.pas=D:\kerjaanku-dataD\IMK\IMK SP 2023\ibu zachira\UTS (TUBES)\wheaterApp.pas</Transaction>
+    <Transaction>2023/08/06 17:32:16.000.427,E:\Program Files\Embarcadero\Studio\22.0\kerjaanKU\Project1.dproj=D:\kerjaanku-dataD\IMK\IMK SP 2023\ibu zachira\UTS (TUBES)\XwheaterApp.dproj</Transaction>
+    <Transaction>2023/08/14 10:37:38.000.305,=D:\kerjaanku-dataD\IMK\IMK SP 2023\ibu zachira\UTS (TUBES)\Unit1.pas</Transaction>
+    <Transaction>2023/08/14 10:39:20.000.161,=D:\kerjaanku-dataD\IMK\IMK SP 2023\ibu zachira\UTS (TUBES)\Unit2.pas</Transaction>
+    <Transaction>2023/08/14 10:54:14.000.561,D:\kerjaanku-dataD\IMK\IMK SP 2023\ibu zachira\UTS (TUBES)\Unit2.dfm=D:\kerjaanku-dataD\IMK\IMK SP 2023\ibu zachira\UTS (TUBES)\Help.dfm</Transaction>
+    <Transaction>2023/08/14 10:54:14.000.561,D:\kerjaanku-dataD\IMK\IMK SP 2023\ibu zachira\UTS (TUBES)\Unit2.pas=D:\kerjaanku-dataD\IMK\IMK SP 2023\ibu zachira\UTS (TUBES)\Help.pas</Transaction>
+    <Transaction>2023/08/14 11:38:01.000.240,=D:\kerjaanku-dataD\IMK\IMK SP 2023\ibu zachira\UTS (TUBES)\Unit2.pas</Transaction>
+    <Transaction>2023/08/14 11:39:29.000.138,D:\kerjaanku-dataD\IMK\IMK SP 2023\ibu zachira\UTS (TUBES)\Help2.pas=D:\kerjaanku-dataD\IMK\IMK SP 2023\ibu zachira\UTS (TUBES)\Unit2.pas</Transaction>
+    <Transaction>2023/08/14 11:39:29.000.138,D:\kerjaanku-dataD\IMK\IMK SP 2023\ibu zachira\UTS (TUBES)\Help2.dfm=D:\kerjaanku-dataD\IMK\IMK SP 2023\ibu zachira\UTS (TUBES)\Unit2.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
